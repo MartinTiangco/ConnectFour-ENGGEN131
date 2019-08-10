@@ -17,13 +17,14 @@ There is a block of boundary blocks in the middle of the block. From board size 
 * The board is initialised. Note the four boundary blocks in the middle.
 
 ![Board size of 8, Player vs. Player, Initialising the board][turnZero]
+---
 
 ##### Turn 1:
 * Player 1 places their counter at N5.
 * Note where the counter has stopped.
 
 ![Player 1 places the counter at North 5 (N5)][turnOne]
-
+---
 
 
 [turnZero]: https://github.com/MartinTiangco/ConnectFour-ENGGEN131/blob/master/Screenshots/Turn0.PNG "Board size of 8, Player vs. Player, Initialising the board"
