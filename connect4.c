@@ -4,10 +4,7 @@
 #include "connect4.h"
 
 /*
-*** Please replace this comment with your name and ID number ***
-This is the file that you will be submitting for marking
-Complete the definitions of the functions in this file
-DO NOT REMOVE ANY FUNCTION DEFINITIONS - they all must be present when you submit this file
+Author: Martin Tiangco
 */
 
 int SecondPlacePrize(int prize1, int prize2, int prize3)
