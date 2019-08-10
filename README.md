@@ -26,6 +26,8 @@ There is a block of boundary blocks in the middle of the block. From board size 
 ![Player 1 places the counter at North 5 (N5)][turnOne]
 ---
 
+The game is won when one player successfully places four counters (like a regular Connect Four game) horizontally, vertically or diagonally.
+
 
 [turnZero]: https://github.com/MartinTiangco/ConnectFour-ENGGEN131/blob/master/Screenshots/Turn0.PNG "Board size of 8, Player vs. Player, Initialising the board"
 [turnOne]: https://github.com/MartinTiangco/ConnectFour-ENGGEN131/blob/master/Screenshots/Turn1.PNG "Player 1 places the counter at North 5 (N5)"
